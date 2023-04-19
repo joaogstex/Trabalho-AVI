@@ -34,10 +34,10 @@ Como dito anteriormente, assim que o tempo de loading é exterminado, a página 
 
 ![Login](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/login.png)
 
+Ao clicar em 'Entrar' o coordenador geral é levado a uma página com acesso ao sistema CRUD.
 ![LoginCoordenador](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/loginCoordenador.png)
-
+Ao clicar em 'Entrar' o aluno é relocado para uma página com acesso a uma tabela de coordenadores dos mais diversos cursos e seus horários de disponibilidade.
 ![LoginAluno](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/loginAluno.png)
-
 
 A autenticação do nome de usuário e senhas são feitas com base no código apresentado na imagem abaixo, ambos os nomes de usuário e senha são predefinidos no código Java.
 
