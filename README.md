@@ -46,15 +46,16 @@ A autenticação do nome de usuário e senhas são feitas com base no código ap
 <br/>
 <br/>
 
-Página de Criação de Novo Contato e Edição de Contato: 
+Página de Acesso do Coordenador Geral: 
 
-A criação de um novo contato envolve a inserção do nome, telefone e e-mail do contato. Caso o telefone ou o nome não sejam inseridos nas caixas de texto uma alerta será emitido ao usuário por meio de códigos feitos por JavaScript que ele deve preencher os campos. Isso não é obrigatório para a inserção de e-mail. 
+Nessa página, o responsável pela alteração de coordenadores, garantirá o seu acesso ao sistema CRUD. 
 
-![CriarContato](https://raw.githubusercontent.com/joaogstex/Agenda-Contatos-CRUD/main/ImagensGit/CriarContato.jpg)
+![AcessoCoordenador](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/coordenadorHTML.png)
 
-A edição de um contato no entanto funciona quase que de forma igual, a única diferença sendo a impossibilidade de mudança do IDcon do contato, que será imutável. O ID é também a forma de escolha do contato pelo banco de dados para que a edição de contatos possa ser possível.
+<br/>
 
-![EditarContato](https://raw.githubusercontent.com/joaogstex/Agenda-Contatos-CRUD/main/ImagensGit/Editar.jpg)
+Página de Acesso do Aluno:
+![AcessoAluno](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/alunoHTML.png)
 
 <br/>
 
