@@ -53,22 +53,24 @@ Nessa página, o responsável pela alteração de coordenadores, garantirá o se
 ![AcessoCoordenador](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/coordenadorHTML.png)
 
 <br/>
+Página inicial do CRUD com alguns contatos já adicionados.
 
 ![CRUD](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/CRUD.png)
 
 <br/>
-
+Página de Inserir um Novo Coordenador. Aqui, o coordenador geral pode inserir um Id (3), Nome (Santiago de Almeida), Curso (Engenharia de Software) e Período de Disponibilidade (Tarde)
 ![NovoContato](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/criarNovoContato.png)
 
 <br/>
-
-![EditarContato]()
+Na página de Editar Coordenador, o coordenador geral será capaz de mudar o Nome, Curso e Período de Disponibilidade do coordenador escolhido mas nunca o Id do coordenador. O ID é imutável, ou seja, não pode ser alterado. O ID no entanto pode ser excluído juntamente com todos os dados do coordenador e assim ser utilizado por outro coordenador. 
+![EditarContato](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/editarContato.png)
 
 <br/>
-
-![ConfirmarExclusaoContato]()
-
-![ContatoExcluido]()
+Ao clicar no botão de Excluir, um alerta feito em javascript será emitido para o coordenador geral perguntando se ele tem certeza sobre excluir os dados daquele coordenador e se ele deseja prosseguir. Se a opção 'cancelar' for escolhida, o alerta é fechado e os dados continuam da exata maneira que estavam. Porém, se a opção 'Ok' for escolhida, os dados (ID, Nome, Curso e Período de Disponibilidade) são excluídos permanentemente do sistema.
+![ConfirmarExclusaoContato](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/confirmarExclusao.png)
+<br/>
+Aqui está a tabela depois do segundo coordenador ter sido excluído do sistema. Note que o primeiro e terceiro continuam, já que apenas o segundo coordenador é selecionado pelo botão de Excluir.
+![ContatoExcluido](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/contatoExcluido.png)
 
 <br/>
 
