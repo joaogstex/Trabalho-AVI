@@ -91,17 +91,17 @@ A tabela de coordenadores apresenta o nome, curso e período de disponibilidade 
 
 Diferente do sistema CRUD apresentado na página /main, a página aluno.jsp não permite ao aluno que insira, altere ou exclua um coordenador, permitindo apenas que ele veja os coordenadores e seus respectivos cursos e horários.
 
-![TabelaParaAlunos]()
+![TabelaParaAlunos](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/tabelaParaAlunos.png)
 
 <br/>
 A tabela de coordenadores também possui um hover sobre os nomes dos coordenadores. Ao passar o mouse sobre os seus nomes, as letras mudam para uma cor azulada e são sublinhadas.
 
-![TabelaParaAlunosHover]()
+![TabelaParaAlunosHover](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/tabelaParaAlunosHover.png)
 
 <br/>
 Ao clicar no nome do coordenador, o aluno tem uma surpresa com um pop-up que contém informações adicionais do coordenador escolhido, como telefone, e-mail e a sala que se encontra durante os dias letivos.
 
-![PopUp]()
+![PopUp](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/popUp.png)
 
 
 <br/>
