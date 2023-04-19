@@ -54,7 +54,6 @@ Nessa página, o responsável pela alteração de coordenadores, garantirá o se
 
 <br/>
 
-## 
 Página inicial do CRUD com alguns contatos já adicionados.
 
 ![CRUD](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/CRUD.png)
@@ -110,9 +109,11 @@ Ao clicar no nome do coordenador, o aluno tem uma surpresa com um pop-up que con
 
 ## Aprendizado
 
-Projeto de estudos no campo de Java Web realizado por meio das aulas do Professor José de Assis no curso de Java Web Level 1. Segue o link a seguir: (https://www.youtube.com/watch?v=dVRYwQc8uYc)
+Projeto Java Web realizado por meio das aulas do Professor José de Assis no curso de Java Web Level 1. Segue o link a seguir: (https://www.youtube.com/watch?v=dVRYwQc8uYc).
 
-Suas aulas foram de extrema importância para a compreensão das funcionalidades, métodos e funções de Java Web. Foi de extrema importância também para compreensão do banco de dados MySQL. Foco principal nas ferramentas back-end.
+As aulas do professor e orientador Mário Jorge foram, assim como as aulas do professor José de Assis, de extrema importância para a realização deste trabalho, especialmente com a utilização de arrays em Java Web.
+
+Ambas as aulas foram de extrema importância para a compreensão das funcionalidades, métodos e funções de Java Web. 
 
 A utilização do servidor Apache Tomcat foi de extrema importância para a funcionalidade do projeto.
 
@@ -120,11 +121,9 @@ A utilização do servidor Apache Tomcat foi de extrema importância para a func
 
 ### Backend
 - Java
-- MySql
-- ItextPdf
 - Tomcat
 
 ### FrontEnd
-- Html
+- HTML
 - CSS
 - JS
