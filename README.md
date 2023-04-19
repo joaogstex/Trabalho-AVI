@@ -79,9 +79,29 @@ Aqui está a tabela depois do segundo coordenador ter sido excluído do sistema.
 <br/>
 
 Página de Acesso do Aluno:
+
+Nessa página, o aluno garantirá o seu acesso a uma outra tabela (sem o sistema CRUD) de coordenadores.
+
 ![AcessoAluno](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/alunoHTML.png)
 
 <br/>
+A tabela de coordenadores apresenta o nome, curso e período de disponibilidade dos coordenadores, não mostrando o ID do coordenador. A tabela é diferente da tabela do sistema CRUD pois, para nós, não foi possível mostrar em tempo real os dados armazenados na página /main do CRUD. Para contornar isso, criamos uma tabela com valores predeterminados e fixos, simulando assim como funcionaria a coleta e compartilhamento dos dados do /main com a página aluno.jsp. 
+
+<br/>
+
+Diferente do sistema CRUD apresentado na página /main, a página aluno.jsp não permite ao aluno que insira, altere ou exclua um coordenador, permitindo apenas que ele veja os coordenadores e seus respectivos cursos e horários.
+
+![TabelaParaAlunos]()
+
+<br/>
+A tabela de coordenadores também possui um hover sobre os nomes dos coordenadores. Ao passar o mouse sobre os seus nomes, as letras mudam para uma cor azulada e são sublinhadas.
+
+![TabelaParaAlunosHover]()
+
+<br/>
+Ao clicar no nome do coordenador, o aluno tem uma surpresa com um pop-up que contém informações adicionais do coordenador escolhido, como telefone, e-mail e a sala que se encontra durante os dias letivos.
+
+![PopUp]()
 
 
 <br/>
