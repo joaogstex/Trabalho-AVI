@@ -117,11 +117,11 @@ A utilização do servidor Apache Tomcat foi de extrema importância para a func
 
 ## Tecnologias
 
-### Backend
+### Back-end
 - Java
 - Tomcat
 
-### FrontEnd
+### Front-end
 - HTML
 - CSS
 - JS
