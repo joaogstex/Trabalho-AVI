@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agenda de Disponibilidade de Coordenadores</title>
+<link rel="icon" href="imagens/crud.png">
+<link rel="stylesheet" href="style.css">
+<style>
+#contato {
+	text-align: center;
+}
+</style>
+</head>
+<body>
+
+	<h1 id="contato">Criar novo contato de Coordenador</h1>
+	<form name="frmContato" action="insert">
+		<div class="container">
+			<table>
+				<tr>
+					<td style="text-align: center;"><input type="text"
+						name="idcon" placeholder="Idcon" class="Caixa1"></td>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><input type="text" name="nome"
+						placeholder="Nome" class="Caixa1"></td>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><input type="text"
+						name="curso" placeholder="Curso" class="Caixa2"></td>
+				</tr>
+				<tr>
+					<td style="text-align: center;"><input type="text"
+						name="listaPeriodoDisponibilidade"
+						placeholder="Periodo de Disponibilidade" class="Caixa1"></td>
+				</tr>
+			</table>
+		</div>
+		<input type="button" value="Adicionar" class="botao1"
+			onclick="validar()">
+	</form>
+	<script src="scriptavi/validador.js"></script>
+</body>
+</html>
