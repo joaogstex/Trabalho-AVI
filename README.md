@@ -28,11 +28,15 @@ A página inicial do CRUD revela uma tela de carregamento com duração total de
 <br/>
 <br/>
 
-Relatório PDF dos contatos: 
+Tela de Login do Usuário (Exemplo: Coordenador e Aluno): 
 
-É também possível, por meio do botão "Relatório", gerar um arquivo PDF da lista de contatos atual. Caso um contato seja editado ou excluído, a lista também irá ser gerada de forma diferente por ser uma lista dinâmica com o uso de ArrayList.
+Como dito anteriormente, assim que o tempo de loading é exterminado, a página é relocada para uma tela de login. Aqui, o coordenador geral ou aluno podem acessar diferentes páginas com relação aos coordenadores de diferentes cursos.
 
-![PDF](https://raw.githubusercontent.com/joaogstex/Agenda-Contatos-CRUD/main/ImagensGit/AgendaPdf.jpg)
+![Login](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/login.png)
+
+![LoginCoordenador](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/loginCoordenador.png)
+
+![LoginAluno](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/loginAluno.png)
 
 <br/>
 <br/>
