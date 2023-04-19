@@ -10,7 +10,7 @@ Sistema CRUD utilizando Java Web e Banco de Dados Relacional para a criação de
 
 Página de Realização do CRUD:
 
-A Agenda de Disponibilidade de Coordenadores é uma aplicação Java Web desenvolvida para o Trabalho AVI sobre orientação do professor Mário Jorge do curso de bacharelado de Engenharia de Software, terceiro semestre, na Universidade Católica de Salvador (UCsal), para a implementação de um sistema web que relata uma quantidade de coordenadores, armazenando seus IDs (códigos de reconhecimento utilizado pelo banco de dados), nome e respectivos horários de disponibilidade.
+A Agenda de Disponibilidade de Coordenadores é uma aplicação Java Web desenvolvida para o Trabalho AVI sobre orientação do professor Mário Jorge do curso de bacharelado de Engenharia de Software, terceiro semestre, na Universidade Católica de Salvador (UCsal), para a implementação de um sistema web que relata uma quantidade de coordenadores, armazenando seus IDs (códigos de reconhecimento utilizado pelo banco de dados), nome e respectivos horários de disponibilidade. As tecnologias utilizadas foram Java, JavaScript, HTML, CSS e o servidor Apache Tomcat.
 
 É possível adicionar, editar, deletar e criar novos contatos. Cada ação realizada visita o banco de dados relacional criado por meio de arraylists na classe DAO. 
 
