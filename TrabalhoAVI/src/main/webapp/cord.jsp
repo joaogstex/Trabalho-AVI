@@ -44,7 +44,7 @@ a {
 				<td><%=lista.get(i).getIdcon()%></td>
 				<td><a href="select?idcon=<%=lista.get(i).getIdcon()%>"><%=lista.get(i).getNome()%></a></td>
 				<td><%=lista.get(i).getCurso()%></td>
-				<td><%=lista.get(i).getListaPeriodoDisponibilidade()%></td>
+				<td><p style="white-space: pre-wrap;"><%=lista.get(i).getListaPeriodoDisponibilidade()%></p></td>
 				<td><a href="select?idcon=<%=lista.get(i).getIdcon()%>"
 					class="botao1">Editar</a> <a
 					href="javascript: confirmar(<%=lista.get(i).getIdcon()%>)"
