@@ -56,7 +56,7 @@ Nessa página, o responsável pela alteração de coordenadores, garantirá o se
 
 Página inicial do CRUD com alguns contatos já adicionados.
 
-![CRUD](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/CRUD.png)
+![CRUD](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/CRUD1.png)
 
 <br/>
 Página de Inserir um Novo Coordenador. Aqui, o coordenador geral pode inserir um Id (3), Nome (Santiago de Almeida), Curso (Engenharia de Software) e Período de Disponibilidade (Tarde)
@@ -92,7 +92,7 @@ A tabela de coordenadores apresenta o nome, curso e período de disponibilidade 
 
 Diferente do sistema CRUD apresentado na página /main, a página aluno.jsp não permite ao aluno que insira, altere ou exclua um coordenador, permitindo apenas que ele veja os coordenadores e seus respectivos cursos e horários.
 
-![TabelaParaAlunos](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/tabelaParaAlunos.png)
+![TabelaParaAlunos](https://raw.githubusercontent.com/joaogstex/Trabalho-AVI/master/imagensAVI/tabelaParaAlunos1.png)
 
 <br/>
 A tabela de coordenadores também possui um hover sobre os nomes dos coordenadores. Ao passar o mouse sobre os seus nomes, as letras mudam para uma cor azulada e são sublinhadas.
