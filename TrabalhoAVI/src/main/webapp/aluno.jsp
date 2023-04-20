@@ -92,46 +92,234 @@ td.coordenador:hover {
     </tr>
   </thead>
   <tbody>
+   <tr>
+  <td class="coordenador" data-coordenador="Santiago de Almeida, telefone: (XX) XXXX-XXXX, email: santiago@exemplo.com, sala: C201" rowspan="6" style="cursor: pointer;">Santiago de Almeida</td>
+  <td rowspan="6">Engenharia Civil/Mecânica</td>
+  <td>Segunda-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
     <tr>
-      <td class="coordenador" data-coordenador="Santiago de Almeida, telefone: (XX) XXXX-XXXX, email: santiago@exemplo.com, sala: C201" style="cursor: pointer;">Santiago de Almeida</td>
-      <td>Engenharia Civil/Mecânica</td>
-      <td>Manhã às 9:50 até 12:00</td>
+      <td class="coordenador" data-coordenador="Juniano de Oliveira Neto, telefone: (XX) XXXX-XXXX, email: juniano@exemplo.com, sala: B192" rowspan="8" style="cursor: pointer;">Juniano de Oliveira Neto</td>
+      <td rowspan="8">Medicina</td>
+        <tr>
+    <td>
     </tr>
+      <td>Segunda-feira - 13:10 até 17:50</td>
+    </tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Juniano de Oliveira Neto, telefone: (XX) XXXX-XXXX, email: juniano@exemplo.com, sala: B192" style="cursor: pointer;">Juniano de Oliveira Neto</td>
-      <td>Medicina</td>
-      <td>Tarde às 13:10 até 17:50</td>
-    </tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Manuela Santos, telefone: (XX) XXXX-XXXX, email: manuela@exemplo.com, sala: C208" style="cursor: pointer;">Manuela Santos</td>
-      <td>Direito</td>
-      <td>Noite às 20:00 até 23:30</td>
+      <td class="coordenador" data-coordenador="Manuela Santos, telefone: (XX) XXXX-XXXX, email: manuela@exemplo.com, sala: C208" rowspan="8" style="cursor: pointer;">Manuela Santos</td>
+      <td rowspan="8">Direito</td>
+        <tr>
+    <td>
     </tr>
+      <td>Segunda-feira - 20:00 até 23:30</td>
+    </tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Douglas Silva Santos, telefone: (XX) XXXX-XXXX, email: douglas@exemplo.com, sala: A090" style="cursor: pointer;">Douglas Silva Santos</td>
-      <td>Pedagogia</td>
-      <td>Manhã às 7:00 até 12:30</td>
-    </tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Camila Freitas Schmidt, telefone: (XX) XXXX-XXXX, email: camila@exemplo.com, sala: B126" style="cursor: pointer;">Camila Freitas Schmidt</td>
-      <td>Engenharia de Software</td>
-      <td>Manhã às 7:00 até 11:40</td>
+      <td class="coordenador" data-coordenador="Douglas Silva Santos, telefone: (XX) XXXX-XXXX, email: douglas@exemplo.com, sala: A090" rowspan="8" style="cursor: pointer;">Douglas Silva Santos</td>
+      <td rowspan="8">Pedagogia</td>
+        <tr>
+    <td>
     </tr>
+      <td>Segunda-feira - 7:00 até 12:30</td>
+    </tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Daniela Santana, telefone: (XX) XXXX-XXXX, email: daniela@exemplo.com, sala: C238" style="cursor: pointer;">Daniela Santana</td>
-      <td>Medicina</td>
-      <td>Noite às 18:00 até 22:00</td>
-    </tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Carlos Camilo, telefone: (XX) XXXX-XXXX, email: carlos@exemplo.com, sala: B240" style="cursor: pointer;">Carlos Camilo</td>
-      <td>Teologia</td>
-      <td>Manhã às 8:10 até 12:30</td>
+      <td class="coordenador" data-coordenador="Camila Freitas Schmidt, telefone: (XX) XXXX-XXXX, email: camila@exemplo.com, sala: B126" rowspan="8" style="cursor: pointer;">Camila Freitas Schmidt</td>
+      <td rowspan="8">Engenharia de Software</td>
+        <tr>
+    <td>
     </tr>
+      <td>Segunda-feira - 7:00 até 11:40</td>
+    </tr>
+    
     <tr>
-      <td class="coordenador" data-coordenador="Paulo Freitas, telefone: (XX) XXXX-XXXX, email: paulo@exemplo.com, sala: C450" style="cursor: pointer;">Paulo Freitas</td>
-      <td>Matemática</td>
-      <td>Tarde às 13:00 até 17:00</td>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
+    <tr>
+      <td class="coordenador" data-coordenador="Daniela Santana, telefone: (XX) XXXX-XXXX, email: daniela@exemplo.com, sala: C238" rowspan="8" style="cursor: pointer;">Daniela Santana</td>
+      <td rowspan="8">Medicina</td>
+        <tr>
+    <td>
     </tr>
+      <td>Segunda-feira - 18:00 até 22:00</td>
+    </tr>
+    
+    <tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
+    <tr>
+      <td class="coordenador" data-coordenador="Carlos Camilo, telefone: (XX) XXXX-XXXX, email: carlos@exemplo.com, sala: B240" rowspan="8" style="cursor: pointer;">Carlos Camilo</td>
+      <td rowspan="8">Teologia</td>
+        <tr>
+    <td>
+    </tr>
+      <td>Segunda-feira - 8:10 até 12:30</td>
+    </tr>
+    
+    <tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
+    <tr>
+      <td class="coordenador" data-coordenador="Paulo Freitas, telefone: (XX) XXXX-XXXX, email: paulo@exemplo.com, sala: C450" rowspan="8" style="cursor: pointer;">Paulo Freitas</td>
+      <td rowspan="8">Matemática</td>
+        <tr>
+    <td>
+    </tr>
+      <td>Segunda-feira - 13:00 até 17:00</td>
+    </tr>
+    
+    <tr>
+  <td>Terça-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quarta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Quinta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sexta-feira - Manhã às 9:50 até 12:00</td>
+</tr>
+
+<tr>
+  <td>Sábado - Manhã às 9:50 até 12:00</td>
+</tr>
+    
   </tbody>
 </table>
     <script src="scriptavi/confirmador.js"></script>
