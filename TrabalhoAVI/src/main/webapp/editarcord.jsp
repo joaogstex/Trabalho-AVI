@@ -37,9 +37,7 @@
 				</tr>
 
 				<tr>
-					<td><input type="text" name="listaPeriodoDisponibilidade"
-						class="Caixa1"
-						value="<%out.print(request.getAttribute("listaPeriodoDisponibilidade"));%>">
+					<td><textarea name="listaPeriodoDisponibilidade" class="Periodo"><%= request.getAttribute("listaPeriodoDisponibilidade") %></textarea>
 					</td>
 				</tr>
 			</table>
